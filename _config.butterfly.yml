@@ -486,15 +486,14 @@ search:
     hitsPerPage: 6
 
   # Local Search
-local_search:
-  enable: true
-  preload: false
-  top_n_per_article: 1
-  unescape: false
-  pagination:
-    enable: false
-    hitsPerPage: 8
-  CDN:
+  local_search:
+    enable: true
+    preload: false
+    top_n_per_article: 1
+    unescape: false
+    pagination:
+      enable: false
+      hitsPerPage: 8
 
   # Docsearch
   # https://docsearch.algolia.com/
