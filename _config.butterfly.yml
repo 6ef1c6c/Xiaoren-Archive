@@ -56,7 +56,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: https://github.com/6ef1c6c.png
   effect: false
 
 # Disable all banner images
@@ -292,7 +292,7 @@ aside:
       link: https://github.com/6ef1c6c
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 没什么好说的,那就祝您天天开心吧ovo
   card_recent_post:
     enable: true
     # If set 0 will show all
