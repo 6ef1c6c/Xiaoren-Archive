@@ -284,6 +284,7 @@ aside:
     category: true
   card_author:
     enable: true
+    avatar: https://github.com/6ef1c6c.png
     description:
     button:
       enable: true
