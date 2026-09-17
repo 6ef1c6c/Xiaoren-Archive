@@ -486,19 +486,15 @@ search:
     hitsPerPage: 6
 
   # Local Search
-  local_search:
-    # Preload the search data when the page loads.
-    preload: false
-    # Show top n results per article, show all results by setting to -1
-    top_n_per_article: 1
-    # Unescape html strings to the readable one.
-    unescape: false
-    # Enable pagination for search results
-    pagination:
-      enable: false
-      # Number of search results per page
-      hitsPerPage: 8
-    CDN:
+local_search:
+  enable: true
+  preload: false
+  top_n_per_article: 1
+  unescape: false
+  pagination:
+    enable: false
+    hitsPerPage: 8
+  CDN:
 
   # Docsearch
   # https://docsearch.algolia.com/
