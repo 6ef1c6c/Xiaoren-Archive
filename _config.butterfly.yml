@@ -67,6 +67,7 @@ default_top_img:
 
 # The banner image of index page
 index_img:
+ - "/img/粘贴的图像.webp"
 
 # The banner image of archive page
 archive_img:
