@@ -261,11 +261,11 @@ noticeOutdate:
 footer:
   nav:
   owner:
-    enable: true
+    enable: false
     since: 2025
   # Copyright of theme and framework
   copyright:
-    enable: true
+    enable: false
     version: true
   custom_text:
 
