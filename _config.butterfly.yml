@@ -1050,7 +1050,6 @@ css_prefix: true
 inject:
   head:
     - <script>if(!localStorage.getItem('theme')){localStorage.setItem('theme','dark');document.documentElement.setAttribute('data-theme','dark');}</script>
-    
   bottom:
     - <script src="js/snow.js"></script>
 
